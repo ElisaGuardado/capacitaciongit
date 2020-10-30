@@ -1,2 +1,5 @@
 # capacitaciongit
-repositorio para practica
+repositorio para practicas
+# Capacitación GIT UNAB
+
+Repositorio de GIT 
